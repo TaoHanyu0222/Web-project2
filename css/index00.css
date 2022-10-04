@@ -21,8 +21,8 @@ a{
 a{
 	font-size: 16px;
 	color: #fff;
-	font-family: courier;
-	font-weight: bold;
+	font-family: tensentype-lingheij, sans-serif;
+	font-weight: light;
 	position: absolute;
 }
 a:hover{

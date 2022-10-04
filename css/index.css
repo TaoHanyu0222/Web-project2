@@ -3,8 +3,10 @@
 	padding: 0;
 }
 body{
-	background-color: red;
+	background-color: #FCF6DB;
 }
+
+
 a{
 	text-decoration: none;
 }
@@ -16,15 +18,16 @@ a{
 	overflow: hidden;
 	min-height: 2000px;
 	position: relative;
-
 }
 a{
-	font-size: 16px;
-	color: #fff;
-	font-family: courier;
-	font-weight: bold;
+	font-size: 26px;
+	color: #000000;
+	font-family: tensentype-lingheij, sans-serif;
+	font-weight: light;
 	position: absolute;
 }
+
+
 a:hover{
 	color: #fff;
 }
@@ -113,21 +116,21 @@ a:hover{
 .a6{
 	top: 300px;
 	right: 200px;
-	font-size: 42px;
+	font-size: 62px;
 	animation: a1 2s linear infinite;
 }
 
 .a7{
 	top: 1200px;
 	right: 200px;
-	font-size: 52px;
+	font-size: 92px;
 	animation: a1 2s linear infinite;
 }
 
 .a8{
 	top: 1300px;
 	right: 600px;
-	font-size: 52px;
+	font-size: 12px;
 	animation: a8 3s linear infinite;
 }
 @keyframes a8{
@@ -145,7 +148,7 @@ a:hover{
 .a9{
 	top: 1600px;
 	left: 200px;
-	font-size: 52px;
+	font-size: 32px;
 	animation: a9 4s linear infinite;
 }
 @keyframes a9{
